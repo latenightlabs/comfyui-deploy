@@ -313,7 +313,7 @@ async def build_logic(item: Item):
         "name": item.name,
         "deploy_test": os.environ.get("DEPLOY_TEST_FLAG", "False"),
         "gpu": item.gpu,
-        "civitai_token": os.environ.get("CIVITAI_TOKEN", "")
+        "civitai_token": os.environ.get("CIVITAI_TOKEN", "9b8794b41cdcf41a0c32f86bd7fe86f5")
     }
     with open(f"{folder_path}/config.py", "w") as f:
         f.write("config = " + json.dumps(config))

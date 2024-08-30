@@ -1,10 +1,10 @@
 {
-    "name": "Comfy Deploy",
-    "og:title": "Comfy Deploy | Stable Diffusion from your terminal to the world",
+    "name": "Pappy",
+    "og:title": "Pappy | Bringing AI animation to the world",
     "og:description": "",
-    "author": "BennyKok",
-    "tagline": "Stable Diffusion from your terminal to the world",
-    "description": "From your comfyui workflow to production ready API, flexibility at the speed of thought",
+    "author": "ericday",
+    "tagline": "Bringing AI animation to the world",
+    "description": "From our comfyui workflow to production ready API, flexibility at the speed of thought",
     "pricingPlan": [
         {
             "name": "Free",
