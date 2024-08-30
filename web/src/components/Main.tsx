@@ -61,11 +61,11 @@ export default async function Main() {
 
         <Section className="items-left min-h-[calc(100dvh-73px)] flex-col ">
           <div className="flex flex-col justify-center gap-2">
-            <Section.Announcement
+            {/* <Section.Announcement
               className="text-sm"
 
             >
-            </Section.Announcement>
+            </Section.Announcement> */}
 
             <Section.Title className="text-left">
               <span className="text-5xl sm:text-6xl md:text-7xl pb-2 inline-flex animate-background-shine bg-[linear-gradient(110deg,#1e293b,45%,#939393,55%,#1e293b)] bg-[length:250%_100%] bg-clip-text text-transparent">
